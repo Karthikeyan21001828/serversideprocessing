@@ -80,7 +80,7 @@ urlpatterns = [
 ## OUTPUT:
 
 ### Home Page:
-![output](Ex09.jpg)
+![EX09](https://user-images.githubusercontent.com/93427303/154723272-5ac8141b-ec22-44f5-85cf-47fb27c7d80b.jpg)
 
 
 ## Result:
